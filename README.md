@@ -38,8 +38,8 @@ ls -la
 ![screenshot of shell](https://user-images.githubusercontent.com/30075600/114757753-e50c2180-9d64-11eb-95ea-fb9bba776c8c.png)
 
 ## Contributors :sunglasses::muscle:
-* [**Ndege Monda**](https://github.com/NMonda)
-* [**Anastacia kamau**](https://github.com/tashysam)
+* [**Ndege Monda**](https://github.com/Nmonda)
+* [**Anastacia Kamau**](https://github.com/tashysam)
 
 ## Acknowledgments :pray:
 - Our fellow cohort members.
